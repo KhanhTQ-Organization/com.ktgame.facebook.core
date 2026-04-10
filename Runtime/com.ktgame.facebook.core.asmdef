@@ -1,0 +1,16 @@
+{
+    "name": "com.ktgame.facebook.core",
+    "rootNamespace": "com.ktgame.facebook.core",
+    "references": [
+        "GUID:5b3dd98536d7dbf469356054e5a6fe1b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
